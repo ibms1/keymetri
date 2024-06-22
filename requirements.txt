@@ -1,5 +1,5 @@
 google_api_python_client==2.119.0
-pandas==2.0.3
+pandas
 protobuf
 pytrends
 streamlit
